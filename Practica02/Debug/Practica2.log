@@ -1,0 +1,27 @@
+﻿  practica2.cpp
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica2.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica2.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(17,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(181,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(181,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(181,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(182,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(182,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(182,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(183,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(183,31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(183,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(184,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(184,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(184,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(185,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(185,31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(185,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(186,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(186,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica2\practica2.cpp(186,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Practica2.vcxproj -> E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Debug\Practica2.exe
