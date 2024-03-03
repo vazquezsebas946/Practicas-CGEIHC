@@ -1,1 +1,0 @@
-Es posible que los archivos de las practicas aparezcan todos juntos en la rama main, en caso de que sea asi, solo seleccione la rama que desea ver en el selector para observar los contenidos de una practica en particular
