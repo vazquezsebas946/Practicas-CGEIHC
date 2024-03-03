@@ -1,0 +1,22 @@
+﻿  E03_318150923.cpp
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'E03_318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'E03_318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(27,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(194,16): warning C4018: '<': signed/unsigned mismatch
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(236,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(236,32): warning C4244:         with
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(236,32): warning C4244:         [
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(236,32): warning C4244:             _Ty=GLfloat
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(236,32): warning C4244:         ]
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(238,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(238,32): warning C4244:         with
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(238,32): warning C4244:         [
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(238,32): warning C4244:             _Ty=GLfloat
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(238,32): warning C4244:         ]
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(335,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio03\E03_318150923.cpp(337,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Ejercicio03.vcxproj -> E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Debug\Ejercicio03.exe
