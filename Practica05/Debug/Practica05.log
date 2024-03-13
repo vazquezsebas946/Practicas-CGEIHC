@@ -1,0 +1,17 @@
+﻿  Window.cpp
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(148,34): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(152,34): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(191,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(192,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(196,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(197,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(199,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(200,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica05\Window.cpp(84,1): warning C4715: 'Window::Initialise': not all control paths return a value
+  Practica05.vcxproj -> E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Debug\Practica05.exe
