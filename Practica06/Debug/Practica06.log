@@ -1,0 +1,11 @@
+﻿  P06-318150923.cpp
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica06\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P06-318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica06\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P06-318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica06\P06-318150923.cpp(431,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica06\P06-318150923.cpp(433,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Practica06.vcxproj -> E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Debug\Practica06.exe
