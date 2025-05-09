@@ -1,0 +1,10 @@
+﻿  E08-318150923.cpp
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio08\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'E08-318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio08\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'E08-318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio08\E08-318150923.cpp(425,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Ejercicio08\E08-318150923.cpp(427,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Ejercicio08.vcxproj -> E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Debug\Ejercicio08.exe

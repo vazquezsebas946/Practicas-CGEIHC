@@ -1,0 +1,11 @@
+﻿  P08-318150923.cpp
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica08\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P08-318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica08\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P08-318150923.cpp')
+  
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica08\P08-318150923.cpp(440,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica08\P08-318150923.cpp(442,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Practica08\P08-318150923.cpp(313,8): warning C4101: 'x': unreferenced local variable
+  Practica08.vcxproj -> E:\PC\Documents\Sebas Escuela New\8vo semestre\Computacion Grafica\Lab\Proyectos Practicas\Debug\Practica08.exe
